@@ -9,5 +9,7 @@ public class Main {
         System.out.println("New Change 4");
         System.out.println("New Change 5");
         System.out.println("New Change 6");
+        System.out.println("New Change 7");
+        System.out.println("New Change 8");
     }
 }
