@@ -12,5 +12,6 @@ public class Main {
         System.out.println("New Change 7");
         System.out.println("New Change 8");
         System.out.println("New Change 9");
+        System.out.println("New Change 10");
     }
 }
