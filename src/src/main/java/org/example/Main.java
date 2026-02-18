@@ -15,5 +15,6 @@ public class Main {
         System.out.println("New Change 10");
         System.out.println("New Change in main 11");
         System.out.println("New Change 1 Branch2");
+        System.out.println("New Change 2 Branch2");
     }
 }
